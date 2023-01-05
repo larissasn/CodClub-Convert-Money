@@ -12,5 +12,5 @@ uma formação FullStack-PRO. Nesse projeto conseguimos captar o valor do dólar
 <br>
 
 <h4> :arrow_down:Abaixo tem o print de como fica meu projeto na tela de um computador.:computer: </h4>
-<img src="./assets.img.print-de-como-fica-nopc.png"/>
+<img src="https://github.com/larissasn/CodClub-Convert-Money/blob/master/assets/img/print-de-como-fica-no-pc.png?raw=true"/>
 <br>
