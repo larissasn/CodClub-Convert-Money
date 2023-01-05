@@ -12,5 +12,5 @@ uma formação FullStack-PRO. Nesse projeto conseguimos captar o valor do dólar
 <br>
 
 <h4> :arrow_down:Abaixo tem o print de como fica meu projeto na tela de um computador.:computer: </h4>
-<img src="https://github.com/larissasn/Projeto-conversor-de-moeda/blob/master/img/print%201%20pc.png?raw=true"/>
+<img src="./assets.img.print-de-como-fica-nopc.png"/>
 <br>
