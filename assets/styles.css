@@ -19,7 +19,7 @@ body {
 .container {
     width: 375px;
     background-color: #F4F4F4;
-   
+    
 }
 
 header {
@@ -37,11 +37,11 @@ h1 {
 }
 
 main {
-    padding: 19px;
+    padding: 9px;
 }
 
 label {
-    font-size: 14px;
+    font-size: 15px;
     color: #777777;
 }
 
@@ -49,7 +49,7 @@ select {
     background: #FFFFFF;
     border: 1px solid #BBBBBB;
     border-radius: 4px;
-    height: 40px;
+    height: 37px;
     width: 100%;
     display: block;
     cursor: pointer;
@@ -67,7 +67,7 @@ input {
     background: #FFFFFF;
     border: 1px solid #BBBBBB;
     border-radius: 4px;
-    height: 40px;
+    height: 37px;
     width: 100%;
     display: block;
     outline: none;
@@ -80,7 +80,7 @@ input {
 button {
     background: #1B83E2;
     border-radius: 18px;
-    height: 40px;
+    height: 37px;
     cursor: pointer;
     color: #F4F4F4;
     font-weight: 700;
